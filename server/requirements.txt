@@ -2,8 +2,8 @@ ipykernel
 langchain
 langserve
 python-dotenv
-StrOutputParser
 langchain-core
 langchain-groq
-
+uvicorn
 fastapi
+slowapi
